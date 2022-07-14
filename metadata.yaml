@@ -1,0 +1,35 @@
+_repo: Obras-completas-de-Figaro-Vol-2_68444
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larra, Mariano José de
+    aliases:
+    - Larra, Mariano Jose de
+    - Larra, José de
+    - De Larra, Mariano José
+    birthdate: 1809
+    deathdate: 1837
+    gutenberg_agent_id: '35308'
+    url: http://www.gutenberg.org/2009/agents/35308
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Mariano_Jos%C3%A9_de_Larra
+    - https://es.wikipedia.org/wiki/Mariano_Jos%C3%A9_de_Larra
+description: ''
+gutenberg_issued: '2022-07-02'
+identifiers:
+  gutenberg: '68444'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044094138435&view=1up&seq=1
+pgterms:marc905: 20200607072902larra
+pgterms:marc906: '1870'
+pgterms:marc907: FR
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: France :Garnier Hnos.,1870.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Obras completas de Fígaro - Vol. 2
+url: http://www.gutenberg.org/ebooks/68444
